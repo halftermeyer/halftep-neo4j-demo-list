@@ -8,3 +8,4 @@ https://github.com/halftermeyer/linkspire-traceability-demo
 https://github.com/halftermeyer/dora-ffiec-hybrid-rag-neo4j
 https://github.com/halftermeyer/temporal-connected-components-with-neo4j
 https://github.com/halftermeyer/neo4j-seo-boost
+https://github.com/halftermeyer/fraud-detection-training
