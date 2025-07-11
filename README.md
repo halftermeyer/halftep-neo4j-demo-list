@@ -9,3 +9,4 @@ Some neo4j demos I made
 1. https://github.com/halftermeyer/temporal-connected-components-with-neo4j
 1. https://github.com/halftermeyer/neo4j-seo-boost
 1. https://github.com/halftermeyer/fraud-detection-training
+1. https://github.com/halftermeyer/quant-temporal-asset-correlation
