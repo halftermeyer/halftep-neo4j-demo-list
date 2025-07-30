@@ -1,4 +1,4 @@
-# neo4j_demo_list
+# neo4j demo list
 Some neo4j demos I made
 
 1. https://github.com/halftermeyer/neo4j-7g-healthcare-pro-fraud-detection
