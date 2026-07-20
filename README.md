@@ -12,3 +12,8 @@ Some neo4j demos I made
 1. https://github.com/halftermeyer/fraud-detection-training
 1. https://github.com/halftermeyer/quant-temporal-asset-correlation
 1. https://github.com/halftermeyer/neo4j-dynamic-ev-routing/tree/main
+1. https://github.com/halftermeyer/n20s-cosmo-rd
+1. https://github.com/halftermeyer/neo4j-rdf-fin-lineage
+1. https://github.com/halftermeyer/rcu-bnpl-neo4j-demo
+1. https://github.com/halftermeyer/wan-digital-twin
+1. https://github.com/halftermeyer/neo4j-flight-claim-demo
