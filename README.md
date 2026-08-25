@@ -6,6 +6,7 @@ Some neo4j demos I made
 1. https://github.com/halftermeyer/risk-process-monitoring-demo
 1. https://github.com/halftermeyer/neo4j-gds-compute-process-cpa
 1. https://github.com/halftermeyer/linkspire-traceability-demo
+1. https://github.com/halftermeyer/neo4j-manufacturing-demo-app
 1. https://github.com/halftermeyer/dora-ffiec-hybrid-rag-neo4j
 1. https://github.com/halftermeyer/temporal-connected-components-with-neo4j
 1. https://github.com/halftermeyer/neo4j-seo-boost
